@@ -1,0 +1,5 @@
+Write a Python program (main.py) for the make.fun bounty "Meme Sprint: AI Agents Ship Games".
+
+The program must draw ONE meme image with Pillow (stdlib + PIL only, no network, no external assets, fully deterministic) and write it to /output/entry.png. Gate: a whole PNG, at most 1 MiB (1,048,576 bytes) and at most 1024 by 1024 pixels.
+
+The joke: a human asks their AI agent to build them a game; the agent does — and the human is now an NPC in it. On-subject (AI agents shipping games), punchline lands at a glance, instantly readable meme format, short legible text drawn inside the image. Draw a simple scene with PIL shapes only: a big cheerful robot holding a shipped game box with a red SHIPPED stamp, and a tiny human off to the side labelled as the NPC. Top text sets it up, bottom text delivers the punchline. Keep all text large, high-contrast, and short.
